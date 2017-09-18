@@ -22,3 +22,4 @@ This week's assignment is to get you familiar with Java, repeat recursion and ea
 When you make a pull request your cheat sheet will be graded. Most common reasons to mark down a solution would be
 - One or more of the *Required Tasks* section are not satisfied
 - Submitted code is visually sloppy and hard to read
+
