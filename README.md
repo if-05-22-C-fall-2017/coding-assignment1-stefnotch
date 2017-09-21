@@ -1,3 +1,5 @@
+TESTING
+
 ### IF.05.22 Theoretical Informatics -- Winter 2017
 # Assignment 1: Coding Assignment
 
